@@ -1,4 +1,5 @@
 var api = 'http://45.32.139.201:30965';
+var apiList = ["http://45.32.139.201:30965", "http://45.32.139.201:30965"];
 var blockTargetInterval = 240;
 var coinUnits = 1000000000000;
 var symbol = 'KHK';
